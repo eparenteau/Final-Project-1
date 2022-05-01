@@ -1,0 +1,45 @@
+#mynavbar {  
+  background-color:#CCC6FA;
+  border-radius: 5px;
+}
+
+#mynavbar li a {  
+  color: #807054; 
+}
+
+#mynavbar li a:hover {
+  background-color: #66433B;   
+  color: #CCC6FA;        
+}
+
+#myconatiner {
+  text-align= center;
+  margin-top: 15%; 
+  color: #4F3845; 
+}
+
+#h1 { text-align: center;
+     margin-top: 10%;
+    color: #66433B }
+
+
+#h2 { text-align: center;
+    color: #807054;
+     }
+
+body
+{background-color: #FAF6C5; }
+
+container
+{background-color: #FAA592; }
+
+footer 
+{background-color: #CCC6FA;
+ color: #66433B;
+text-align: center; }
+
+.carousel, .carousel img  {
+    height: 500px;
+    margin: auto;
+}
+
